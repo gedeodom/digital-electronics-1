@@ -15,7 +15,14 @@
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   <img src="https://latex.codecogs.com/svg.image?A_{1}" title="A_{1}" />
+   Greater than:
+   
+   <img width="233" alt="greaterthanfn" src="https://user-images.githubusercontent.com/99871518/156149102-6b43070b-1537-4e3b-b790-fc366ec3950f.png">
+   
+   Less than:
+   
+   <img width="305" alt="lessthanfn" src="https://user-images.githubusercontent.com/99871518/156149152-df1a3c30-3d47-4bb2-9062-d684f57fb8a8.png">
+
 
 ### 4-bit comparator
 
