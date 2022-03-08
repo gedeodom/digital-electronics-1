@@ -23,7 +23,7 @@ begin
     output <= a_i when (sel_i = "00") else
               b_i when (sel_i = "01") else
               c_i when (sel_i = "10") else
-              d_i when (sel_i = "11");
+              d_i;
 
 
 end architecture Behavioral;
