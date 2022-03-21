@@ -1,5 +1,5 @@
 
-### Flip-flops
+### Flip-flops Dominik Gedeon
 
 1. Listing of VHDL architecture for T-type flip-flop. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
