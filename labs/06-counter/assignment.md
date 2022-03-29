@@ -39,4 +39,5 @@
 
 1. Image of the top layer structure including both counters, ie a 4-bit bidirectional counter from *Part 4* and a 16-bit counter with a 10 ms time base from *Experiments on your own*. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components and internal signals!
 
-   
+![scheme](https://user-images.githubusercontent.com/99871518/160696091-a4219bec-1f30-41be-8dd9-5e79444f841e.jpg)
+
