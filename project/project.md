@@ -40,6 +40,15 @@ Realizaci jsme provedli následovně. Pomocí switche, který v poloze nahoře z
 
 ## VHDL modules description and simulations
 
+**Výchozí převody mezi znaky**
+
+Morseova abeceda:
+
+![International_Morse_Code svg](https://user-images.githubusercontent.com/99871518/166684117-bb43b7ac-3c82-450b-946c-5a8c9061b702.png)
+
+Převodník na 7mi segmentový displej:
+
+![unknown](https://user-images.githubusercontent.com/99871518/166684341-8de35626-589e-4e38-aa76-c6ffe7b51a29.png)
 
 
 <a name="top"></a>
