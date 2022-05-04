@@ -173,3 +173,7 @@ Video k projektu (https://youtu.be/gulC7z_HuiI)
 1. Nexys-A7 reference manuál (https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual?redirect=1)
 2. LAB 04-segment (https://github.com/tomas-fryza/digital-electronics-1/blob/master/labs/04-segment/README.md)
 3. LAB 07-display_driver (https://github.com/tomas-fryza/digital-electronics-1/tree/master/labs/07-display_driver)
+
+## Odkaz na vivado projekt
+
+https://github.com/Polkorabjaroslav/digital-electronics-1/tree/main/labs/Project/project_3
