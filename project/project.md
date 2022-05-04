@@ -20,13 +20,13 @@
 
 ## Project objectives
 
-Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. Pomocí switche 
+Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. 
 
 <a name="hardware"></a>
 
 ## Hardware description
 
-Write your text here.
+Realizaci jsme provedli následovně. Pomocí switche, který v poloze nahoře zapisuje čárku a v poloze dole zapisuje tečku, se tvoří morseovka. Problém s rozpoznáním kdy končí znak a kdy končí slovo jsme vyřešili tím, že se počítají náběžné hrany, když je jich víc (tzn. déle času se nepřepne switch), tak program rozpozná, že končí slovo. 
 
 <a name="modules"></a>
 
