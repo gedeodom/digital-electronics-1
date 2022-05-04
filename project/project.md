@@ -1,11 +1,11 @@
-# YOUR_PROJECT_TITLE
+# Morse code recevier
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Polkorab Jaroslav
+* Sedlák Ondřej
+* Gedeon Dominik
+* Gočiková Erika
 
 ### Table of contents
 
@@ -20,7 +20,7 @@
 
 ## Project objectives
 
-Write your text here.
+Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. 
 
 <a name="hardware"></a>
 
