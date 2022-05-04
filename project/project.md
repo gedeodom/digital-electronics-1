@@ -20,7 +20,7 @@
 
 ## Project objectives
 
-Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. 
+Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. Pomocí switche 
 
 <a name="hardware"></a>
 
