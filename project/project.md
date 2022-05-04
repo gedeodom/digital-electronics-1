@@ -3,8 +3,14 @@
 ### Team members
 
 * Polkorab Jaroslav
+- návrh morse code příjímače, vytvoření a zpracování kódu
+
 * Sedlák Ondřej
+- zpracování schémat
+
 * Gedeon Dominik
+- dokumentace projektu
+
 * Gočiková Erika
 
 ### Table of contents
