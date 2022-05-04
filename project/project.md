@@ -26,7 +26,7 @@
 
 ## Project objectives
 
-Vize je využít desku na zadávání a zároveň vizualizaci morseova kódu. 
+Využít desku Nexys-A7 na zadávání a zároveň vizualizaci morseova kódu. 
 
 <a name="hardware"></a>
 
