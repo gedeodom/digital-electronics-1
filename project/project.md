@@ -44,7 +44,7 @@ Realizaci jsme provedli následovně. Pomocí switche, který v poloze nahoře z
 
 Morseova abeceda:
 
-![International_Morse_Code svg](https://user-images.githubusercontent.com/99871518/166684117-bb43b7ac-3c82-450b-946c-5a8c9061b702.png)
+![morseovka](https://user-images.githubusercontent.com/99871518/166684912-47f13f86-6d93-4eba-90be-3a1a01086570.gif)
 
 Převodník na 7mi segmentový displej:
 
