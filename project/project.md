@@ -26,7 +26,9 @@
 
 ## Project objectives
 
-Využít desku Nexys-A7 na zadávání a zároveň vizualizaci morseova kódu. 
+- využít desku Nexys-A7 na zadávání morseova kódu pomocí switche
+- převedení teček a čárek znaků a slov
+- zobrazení na 7 segmentovém displeji
 
 <a name="hardware"></a>
 
